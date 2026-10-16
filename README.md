@@ -65,6 +65,26 @@ Churn rates differed across device and payment categories. These differences req
 
 The average age in the dataset was approximately 43 years.
 
+## 📊 Visualizations
+
+### 1. Subscription Tier Analysis
+![Subscription Tier Analysis](visualizations/Tier_Analysis.png)
+
+### 2. Churn by Age Group
+![Churn by Age Group](visualizations/age%20group_churn.png)
+
+### 3. Device and Payment Method Analysis
+![Device and Payment Method Analysis](visualizations/device%20_payment%20method.png)
+
+### 4. Login Activity Analysis
+![Login Activity Analysis](visualizations/login_activity.png)
+
+### 5. Retained vs Churned Customers
+![Retained vs Churned Customers](visualizations/retained%20vs%20churn.png)
+
+### 6. Subscription Churn Comparison
+![Subscription Churn Comparison](visualizations/subscription_churn.png)
+
 ## Business Recommendations
 
 1. Investigate why Basic subscribers have a higher churn rate than Standard and Premium subscribers.
