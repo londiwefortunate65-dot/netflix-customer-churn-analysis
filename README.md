@@ -99,6 +99,11 @@ The average age in the dataset was approximately 43 years.
 
 This analysis identifies patterns and associations in the available dataset. It does not establish that the observed factors directly cause customer churn. Some potential explanations require additional customer feedback or further analysis.
 
+## Dataset Source
+
+The dataset was obtained from Kaggle:
+[Netflix Customer Churn and Engagement Analytics](https://www.kaggle.com/datasets/zeyadmohamed26/netflix-customer-churn-and-engagement-analytics)
+
 ## Conclusion
 
 The project demonstrates how Python and data analysis can be used to investigate customer churn and translate findings into potential business actions. The results highlight subscription type and login inactivity as important areas for further investigation.
